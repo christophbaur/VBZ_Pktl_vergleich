@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # VBZ_Pktl_vergleich
 
 Simpler Vergleich der Pünktlichkeit der Verkehrsbetriebe Zürich (VBZ) mit anderen Pünktlichkeitsdefinitionen. Bspw. der Deutschen Bahn (DB) oder den der Schweizer Bundesbahnen (SBB).
